@@ -1,0 +1,27 @@
+{
+  "name": "chat-node",
+  "version": "1.0.0",
+  "description": "_Node.js Socet.IO orqali ._",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "socket.io": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mensenvau/chat-node.git"
+  },
+  "author": "O'tkir Xo'jayev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mensenvau/chat-node/issues"
+  },
+  "homepage": "https://github.com/mensenvau/chat-node#readme"
+}
